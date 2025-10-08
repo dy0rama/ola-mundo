@@ -1,0 +1,1 @@
+Este é o exercício “Olá, Mundo” para aprender sobre o fluxo de trabalho de pull requests do GitHub
